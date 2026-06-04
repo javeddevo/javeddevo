@@ -1,7 +1,7 @@
 # Hey, I'm javeed 👋
 
 ## Software Developer at Cognizant
-<img src="your-gif-url.gif" alt="coding" width="400"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding" width="400"/>
 
 <!-- Profile views counter - below the GIF -->
 ![Profile views](https://komarev.com/ghpvc/?username=javeddevo)
