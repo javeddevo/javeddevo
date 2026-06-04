@@ -1,7 +1,10 @@
 # Hey, I'm javeed 👋
 
 ## Software Developer at Cognizant
+<img src="your-gif-url.gif" alt="coding" width="400"/>
 
+<!-- Profile views counter - below the GIF -->
+![Profile views](https://komarev.com/ghpvc/?username=javeddevo)
 - 🔭 Working on **AWS strands Templates**
 - 🌱 Learning **Generative AI**
 - 💬 Ask me about **Python, AWS, Strands Agents**
@@ -12,7 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/javedma)
 
 
-## Languages and Tools:
 ## Languages and Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
